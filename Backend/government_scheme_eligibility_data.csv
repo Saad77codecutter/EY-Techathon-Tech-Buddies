@@ -1,0 +1,16 @@
+Scheme ID,Full Name,Phone Number,Age,Email,State,District,Region,Scheme Category,Employed,Occupation,Education,Gender,DOB,Senior Citizen Status,Eligible for schemes,Are you a Farmer?
+11111,Rahul Sharma,9876543210,30,ravi@example.com,Delhi,Delhi,Urban,"Agriculture, Rural & Environment",1,Farmer,Graduate,Male,1999-01-01,False,1,True
+22222,Neha Singh,9876543211,40,priya@example.com,Maharashtra,Pune,Rural,"Banking, Financial Services and Insurance",0,Bank Employee,Postgraduate,Female,1990-01-01,False,0,False
+3,Amit Verma,9876543212,35,amit@example.com,Maharashtra,Mumbai,Sub-Urban,Business & Entrepreneurship,1,Entrepreneur,High School,Male,1979-01-01,False,1,False
+44444,Priya Gupta,9876543213,50,neha@example.com,Karnataka,Bangalore,Urban,Education & Learning,1,Teacher,Graduate,Female,1995-01-01,True,0,False
+55555,Ravi Kumar,9876543214,28,rahul@example.com,West Bengal,Kolkata,Rural,Health & Wellness,0,Healthcare Worker,Postgraduate,Male,1992-01-01,False,1,False
+66666,Sakshi Rao,9876543215,32,sneha@example.com,Telangana,Hyderabad,Sub-Urban,Housing & Shelter,1,Architect,Diploma,Female,2000-03-15,False,1,False
+77777,Vikram Yadav,9876543216,40,vijay@example.com,Bihar,Patna,Urban,"Public Safety, Law & Justice",1,Police Officer,High School,Male,1988-07-22,False,0,False
+88888,Ananya Mehta,9876543217,26,ayesha@example.com,Chandigarh,Chandigarh,Rural,"Science, IT & Communications",0,Software Engineer,Graduate,Female,1975-06-10,False,1,False
+99999,Deepak Soni,9876543218,35,ravi2@example.com,Rajasthan,Jaipur,Urban,Skills & Employment,1,Trainer,Diploma,Male,1998-11-23,False,0,False
+10101,Ayesha Khan,9876543219,45,anjali@example.com,Uttar Pradesh,Lucknow,Sub-Urban,Social Welfare & Empowerment,1,Social Worker,Postgraduate,Female,1993-09-05,True,1,False
+12121,Harish Patil,9876543220,50,suresh@example.com,Gujarat,Surat,Rural,Sports & Culture,0,Athlete,Graduate,Male,1991-12-13,True,0,False
+13131,Sunita Sharma,9876543221,60,anita@example.com,Delhi,Delhi,Urban,Transport & Infrastructure,1,Driver,High School,Female,1985-04-28,True,1,False
+14141,Anil Kumar,9876543222,38,manoj@example.com,Telangana,Hyderabad,Sub-Urban,Travel & Tourism,1,Travel Agent,Postgraduate,Male,1973-08-19,False,0,False
+15151,Priyanka Singh,9876543223,30,sita@example.com,Maharashtra,Pune,Rural,Utility & Sanitation,0,Utility Worker,Graduate,Female,1997-01-30,False,1,False
+16161,Rajesh Nair,9876543224,45,amitabh@example.com,Maharashtra,Mumbai,Urban,Women and Child,1,Childcare Worker,Diploma,Male,2001-02-20,True,1,False
